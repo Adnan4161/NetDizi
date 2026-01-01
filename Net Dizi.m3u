@@ -1,17 +1,15 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 1. Bölüm(Geri Sayım)
-https://s231.rapidrame.com/hls2/01/00019/mg1ls9ns8bcc_,l,n,.urlset/master.m3u8?t=z8SCsh5ErzHjvoQ3cAzt1eGrD-9r3boojOusWg8tse8&s=1765211476&e=86400&f=97239&srv=s429&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 2. Bölüm(Kızıl Kıyı)
-https://s230.rapidrame.com/hls2/01/00019/4xf1rcchrs38_,l,n,.urlset/master.m3u8?t=IZRG_He0uATIArKhQAH0S0QCkXvQenNBRPNZ5094CTM&s=1764969453&e=86400&f=97240&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 3. Bölüm(Dünyaların Yok Edicisi)
-https://s427.rapidrame.com/hls2/01/00019/cfpdgt45i2zw_,l,n,.urlset/master.m3u8?t=9o5-rU7PlNEzGwwqcoFionsBQ--wYPy4tCwc1ug9OE4&s=1764969484&e=86400&f=97241&i=0.0&sp=0
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 4. Bölüm(Efendimiz)
-https://s429.rapidrame.com/hls2/01/00019/q53yhagp647v_,l,n,.urlset/master.m3u8?t=rjZTPxbxHKlg7K7CuQwYQ3gZG_uk4hBFYqfrZx8zLSc&s=1764969521&e=86400&f=97242&i=0.0&sp=0
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 5. Bölüm(Mahşer Günü)
-https://s231.rapidrame.com/hls2/01/00019/gbfzpgdx34qv_,l,n,.urlset/master.m3u8?t=BwXHbsCJqDLtCD_OSQFFOyLVHX5WczUh45aMAlv362U&s=1764969564&e=86400&f=97243&srv=s427&i=0.0&sp=0&p1=s231&p2=s231
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 6. Bölüm(Hedefimiz Yıldızlar)
-https://s230.rapidrame.com/hls2/01/00019/lp32071sjami_,l,n,.urlset/master.m3u8?t=LZaYlykYxuMEUkD2UZoMFKCP1lLtikjSGPWlh4J7oM4&s=1764969601&e=86400&f=97244&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 7. Bölüm(Daima İleri)
-https://s230.rapidrame.com/hls2/01/00019/reunx087jcxs_,l,n,.urlset/master.m3u8?t=Fce7Yb4zmPvKxcxhSjZzHnkr46kP1pcmV9eEfhx3u-E&s=1764969672&e=86400&f=97245&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg" group-title="3 Body Problem",3 Body Problem-1. Sezon 8. Bölüm(Wallfacer)
-https://s230.rapidrame.com/hls2/01/00019/nz7c9raq1ko4_,l,n,.urlset/master.m3u8?t=QjkzKGPdAhXNDF0BnRdBVtBs76SUDNp9x_MMg1sFo10&s=1764969707&e=86400&f=97496&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:-1 tvg-id="9808" tvg-name="Vicdansız - Sezon 1 - Bölüm 1" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/97b489e38e04f5e405b96449cd2684e6.jpg" group-title="",Vicdansız - Sezon 1 - Bölüm 1
+#EXTINF:-1 tvg-id="9808" tvg-name="Vicdansız - Sezon 1 - Bölüm 2" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/97b489e38e04f5e405b96449cd2684e6.jpg" group-title="",Vicdansız - Sezon 1 - Bölüm 2
+#EXTINF:-1 tvg-id="9805" tvg-name="Homestead: The Series - Sezon 1 - Bölüm 1" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/1fdd8c008532ccff88a9639e6bd94005.jpg" group-title="",Homestead: The Series - Sezon 1 - Bölüm 1
+#EXTINF:-1 tvg-id="9805" tvg-name="Homestead: The Series - Sezon 1 - Bölüm 2" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/1fdd8c008532ccff88a9639e6bd94005.jpg" group-title="",Homestead: The Series - Sezon 1 - Bölüm 2
+#EXTINF:-1 tvg-id="9805" tvg-name="Homestead: The Series - Sezon 1 - Bölüm 3" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/1fdd8c008532ccff88a9639e6bd94005.jpg" group-title="",Homestead: The Series - Sezon 1 - Bölüm 3
+#EXTINF:-1 tvg-id="9790" tvg-name="The Capture - 1.S Dublaj - Bölüm 1" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/fd73ff882b4226d2ecdc13dc32900e56.jpg" group-title="",The Capture - 1.S Dublaj - Bölüm 1
+#EXTINF:-1 tvg-id="9790" tvg-name="The Capture - 1.S Dublaj - Bölüm 2" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/fd73ff882b4226d2ecdc13dc32900e56.jpg" group-title="",The Capture - 1.S Dublaj - Bölüm 2
+#EXTINF:-1 tvg-id="9790" tvg-name="The Capture - 1.S Altyazı - Bölüm 1" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/fd73ff882b4226d2ecdc13dc32900e56.jpg" group-title="",The Capture - 1.S Altyazı - Bölüm 1
+#EXTINF:-1 tvg-id="9790" tvg-name="The Capture - 1.S Altyazı - Bölüm 2" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/fd73ff882b4226d2ecdc13dc32900e56.jpg" group-title="",The Capture - 1.S Altyazı - Bölüm 2
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 1" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 1
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 2" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 2
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 3" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 3
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 4" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 4
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 5" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 5
+#EXTINF:-1 tvg-id="9789" tvg-name="Sandokan - 1.S Altyazı - Bölüm 6" tvg-logo="https://m.prectv60.lol/uploads/cache/poster_thumb/uploads/jpg/c17c4ea7adfdf72c4f98e8f34ff9bf3d.jpg" group-title="",Sandokan - 1.S Altyazı - Bölüm 6
