@@ -6068,3 +6068,6 @@ https://storage.diziyou.one/episodes/40635_tr/play.m3u8
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/40636_tr/play.m3u8
+
+#EXTINF:-1 group-title="Person of Interest" tvg-logo="https://image.tmdb.org/t/p/w400/egjK7mtJ0OzOxNVJxGPDCH8IWtk.jpg", [8.1] Person of Interest S05E13 - 13. Bölüm
+https://vidmody.com/vs/tt1839578/s5/e13
